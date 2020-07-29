@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EnemyType1
+  - EnemyType2
+  - EnemyType3
+  - Enemy
+  - Cursor
+  - LevelCompleted
   layers:
   - Default
   - TransparentFX
