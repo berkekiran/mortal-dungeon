@@ -1,4 +1,4 @@
-# mortal-dungeon
+# Mortal Dungeon
 2020 / 2D Hyper-casual game
 
 https://berkekiran.itch.io/mortal-dungeon
